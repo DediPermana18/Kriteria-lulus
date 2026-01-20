@@ -103,7 +103,8 @@ if ($abnormal) {
     </center>
     
     <h2 align="center">NILAI</h2>
-
+    
+    <center>
     <table border="1">
         <tr bgcolor="grey">
             <th width="250" align="center">MATA PELAJARAN</th>
@@ -155,5 +156,6 @@ if ($abnormal) {
             <td><?= $hasilRata ?></td>
         </tr>
     </table>
+</center>
 </body>
 </html>
